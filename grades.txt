@@ -1,0 +1,12 @@
+Name: Fazal
+Roll No: 234
+Total Marks: 77.0
+Average: 77.00
+Grade: C
+----------------------------
+Name: Ali
+Roll No: 122
+Total Marks: 23.0
+Average: 23.00
+Grade: F
+----------------------------
